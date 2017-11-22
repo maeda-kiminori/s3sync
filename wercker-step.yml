@@ -1,6 +1,6 @@
 name: s3sync
 version: 2.2.0
-summary: s3sync step
+summary: s3sync steps
 tags:
 - s3
 properties:
